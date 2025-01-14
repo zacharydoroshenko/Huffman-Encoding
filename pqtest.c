@@ -104,7 +104,7 @@ int main(int argc, char **argv) {
     assert(!pq_size_is_1(q));
     assert(!pq_is_empty(q));
 
-    /*
+    
     
     Node *left;
     Node *right;
